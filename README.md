@@ -12,9 +12,10 @@ O robô verifica, em uma lista de 100 matemáticos, quais são os mais populares
 4. Instale as dependências
 
 ```console
-git clone git@github.com:ramonamello/web_scraping_tutorial.git web_scraping_tutorial
+git clone https://github.com/ramonabmello/web_scraping_tutorial.git
 cd web_scraping_tutorial
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+python mathematicians.py
 ```
