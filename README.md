@@ -2,7 +2,7 @@
 [REAL PYTHON](https://realpython.com/python-web-scraping-practical-introduction/)
 
 ## Resumo
-### O robô verifica, em uma lista de 100 matemáticos, quais são os mais populares nas pesquisas e retorna os 5 mais populares.
+O robô verifica, em uma lista de 100 matemáticos, quais são os mais populares nas pesquisas e retorna os 5 mais populares.
 
 ## Como desenvolver?
 
